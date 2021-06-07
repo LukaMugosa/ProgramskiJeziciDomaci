@@ -1,7 +1,8 @@
 package me.ac.ucg.programskijezici;
 
 public class Main {
-
+    // Luka Mugosa 16/2018, D-smjer
+    // rad se moze naci i na githubu "https://github.com/LukaMugosa/ProgramskiJeziciDomaci"
     public static void main(String[] args) {
         System.out.println("--------------Domaci zadatak iz programskih jezika--------------");
 
