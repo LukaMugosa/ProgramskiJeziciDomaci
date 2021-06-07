@@ -20,12 +20,12 @@ public class Main {
         System.out.println();
 
         System.out.println("--------------------Client---------------------------------------");
-        Client client = new TestClient(); // MOGLI SMO I OBJEKAT INSTANCIRANJA INSTANCIRATI I SA TEST CLIENT KLASOM
+        Client client = new Client(); // MOGLI SMO I OBJEKAT INSTANCIRANJA INSTANCIRATI I SA TEST CLIENT KLASOM
         client.operation(); //               ISTO TO VAAZI I ZA NEW TEST CLIENT
         System.out.println();
 
         System.out.println("--------------------NewClient-------------------------------------");
-        NewClient newClient = new NewTestClient();
+        NewClient newClient = new NewClient();
         newClient.operation();
         newClient.newOperation();
 
